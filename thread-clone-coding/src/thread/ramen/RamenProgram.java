@@ -26,7 +26,7 @@ public class RamenProgram {
 		}catch(Exception e){
 			e.printStackTrace();
 		}
-		 
+		
 	}
 
 }
